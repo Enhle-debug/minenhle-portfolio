@@ -15,8 +15,8 @@ I am currently **seeking employment opportunities** where I can contribute my sk
 ## 🚀 Live Preview
 
 🔗 **Portfolio:**
- 
 
+ https://enhle-debug.github.io/minenhle-portfolio/
 ---
 
 ## 🛠️ Tech Stack
