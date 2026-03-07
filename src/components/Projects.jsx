@@ -10,6 +10,15 @@ const projects = [
     liveUrl: "https://enhle-debug.github.io/digital-resume-builder/",
     githubUrl: "https://github.com/enhle-debug/digital-resume-builder",
   },
+
+  {
+    title: "Job Application Tracker",
+    description: "A simple and interactive dashboard that helps users track their job applications and monitor their job search progress.",
+    tags: ["HTML" ,"JavaScript (Vanilla JS)", "CSS"],
+    liveUrl: "https://enhle-debug.github.io/job-application-tracker/",
+    githubUrl: "https://github.com/Enhle-debug/job-application-tracker",
+  },
+
 ];
 
 export default function Projects() {
