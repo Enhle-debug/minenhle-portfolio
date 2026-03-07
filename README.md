@@ -53,6 +53,15 @@ A professional resume builder that generates **ATS-compliant PDFs** with:
 🔗 **Live Demo:** https://enhle-debug.github.io/digital-resume-builder/  
 🔗 **GitHub Repo:** https://github.com/enhle-debug/digital-resume-builder  
 
+
+### 📊 Job Application Tracker
+A simple and interactive dashboard that helps users track their job applications and monitor their job search progress. The application allows users to manage applications efficiently while keeping a clear overview of their job search journey.
+
+**Tech Stack:** HTML, CSS, JavaScript (Vanilla JS)
+
+🔗 **Live Demo:** https://enhle-debug.github.io/job-application-tracker/  
+🔗 **GitHub Repo:** https://github.com/Enhle-debug/job-application-tracker
+
 ---
 
 ## 📦 Installation & Setup
